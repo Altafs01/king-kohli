@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+.img{
+    text-align: center;
+    height: auto;
+    width: auto; 
+}
+.bio p{
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+.span {
+    color: red;
+
+}
