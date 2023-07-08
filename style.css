@@ -43,4 +43,27 @@ table,tr,td,th{
 }
 .hobbies h1{
     text-align: left;
+    display: flex;
 }
+.virat{
+    background-image: url(file:///C:/Users/HP/Desktop/images/virat-kohli.webp);
+    height: 50vh;
+    width: 50vw;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    /* background-position: relative; */
+    border: 2px solid;
+    position: fixed;
+    
+}
+.img-float{
+    /* display: block; */
+    /* float: right; */
+    /* float: left; */
+    /* position: fixed; */
+    /* position:fixed; */
+    /* position: ; */
+    /* display: block; */
+    display: inline;
+}
+
